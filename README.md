@@ -1,3 +1,5 @@
-# fsjs2.0-project-tailwind-Vscode-clone
+# fsjs2.0-project-tailwind-Vscode-clone        
 
-Hi Everyone this is my Tailwind project
+Hi Everyone,             
+
+This is my Tailwind project
